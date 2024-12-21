@@ -7,20 +7,15 @@ This is a *bare-minimum* template to create a Jekyll site that uses the [Just th
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+{: .warning }
+> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+Browse the docs to learn more about how to use this theme.
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
 
 More specifically, the created site:
 
